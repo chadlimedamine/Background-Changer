@@ -24,7 +24,7 @@ $\color{#22c55e}{\textsf{Green screen in}}\ \color{#94a3b8}{\Rightarrow}\ \color
 
 ---
 
-## 💼 TL;DR for recruiters
+## ✨ Overview
 
 > [!IMPORTANT]
 > I built a **background replacement engine from scratch in Python**, using classical computer vision only. It uses no ML models and no video-editing software.
